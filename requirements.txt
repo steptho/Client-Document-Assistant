@@ -1,8 +1,9 @@
 streamlit
 openai
+pandas
+openpyxl
 pypdf
 python-docx
 python-pptx
-pandas
-openpyxl
 fpdf2
+striprtf
